@@ -1,5 +1,5 @@
 # #A project which takes data of student name and Id then marks 
-# # stored by them in every subjects, their total, average and pass or fail and report card.
+# # scored by them in every subjects, their total, average and pass or fail and report card.
 
 
 #DISCLIMAR: This program doesnot uses file to add data so, data is not saved permanently. And after 
